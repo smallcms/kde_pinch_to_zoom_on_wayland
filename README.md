@@ -1,8 +1,8 @@
-# KDE pinch to zoom in Wayland
+# KDE pinch to zoom on Wayland
 ### Working example, how to enable pinch-to-zoom in Fedora, OpenSUSE, etc RPM-based distro.
 
 # Information
-This example based on two packages: well known in Xorg [touchegg](https://github.com/JoseExposito/touchegg) and started in 2022 [dotool](https://git.sr.ht/~geb/dotool). The **dotool** help us with pinch move in Wayland.
+This example based on two packages: well known in Xorg [touchegg](https://github.com/JoseExposito/touchegg) and started in 2022 [dotool](https://git.sr.ht/~geb/dotool). The **dotool** help us with pinch move on Wayland.
 
 # Installation
 ### Add current user to input group
