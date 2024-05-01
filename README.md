@@ -72,4 +72,4 @@ No configuration needed (John Gebbie, you rocks!).
 # F.A.Q.
 **Q: Why use dotoold/dotoolc combination? Command ```echo key super+minus | dotool``` works same...**
 
-**A:** No, not same. dtoold with dtoolc calls works better and faster.
+**A:** No, not same. dotoold with dotoolc calls works better and faster.
